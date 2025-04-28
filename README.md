@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="resources/root_icon.png" height="60" width="60"> 
-  <p>DnD Image Resizar </p>
+  <p>DnD Image Resizer </p>
   <h4 align="center">Simple python based image resizer with drag and drop support. </h4>
 
 <h1 align="center">
@@ -27,7 +27,7 @@ This is a simple Python application that allows you to resize images by dragging
 > Executable is only available for Windows 8 and above.
 
 > [!NOTE]  
-> To use Resizar on other platforms run `app.py`
+> To use Resizer on other platforms run `app.py`
 
 ### Requirements<br>
 For running the python code install the requirements.<br>
